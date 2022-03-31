@@ -55,4 +55,4 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile#-frameworks- -->
 - [Gatsby hybrid app (SSG and  client side) - FE](https://github.com/kamosz08/trans-front)
 - [Gatsby hybrid app (SSG and  client side) - BE](https://github.com/kamosz08/trans-backend)
 - [Real time data firebase to do app (trello alike)](https://github.com/kamosz08/tasker-dnd)
-
+- [Monorepo with turborepo setup, state managers comparison (redux, zustand)](https://github.com/kamosz08/state-managers)
