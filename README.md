@@ -4,7 +4,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile#-frameworks- -->
 ### Hi there, I'm Kamil 👋
 ## I'm a Software Developer
 - :construction_worker: I’m currently working as Frontend Developer
-- 🌱 I’m currently learning pretty much everything, expanding my knowledge as frontend developer and working on some projects as fullstack
+- 🌱 I’m currently expanding my knowledge as frontend developer and working on some projects as fullstack
 - :office: My goal is to always get better as software architect, build resilient, scalabale and maintainable apps
 - :sweat_smile: My current mission is to create a bit more public small projects 
 
