@@ -51,7 +51,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile#-frameworks- -->
 ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Latest public projects
-
+These are some small public projects I've built. Some of them were deployed at some point but I don't have time to maintain them and keep them alive considering free hosting limitations. If project is hosted it will have link in readme.
 - [Gatsby hybrid app (SSG and  client side) - FE](https://github.com/kamosz08/trans-front)
 - [Gatsby hybrid app (SSG and  client side) - BE](https://github.com/kamosz08/trans-backend)
 - [Real time data firebase to do app (trello alike)](https://github.com/kamosz08/tasker-dnd)
